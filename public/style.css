@@ -1,0 +1,27 @@
+
+li {
+  list-style: none;
+  color: #F9690E;
+  padding-bottom: 20px;
+}
+
+body {
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.header-item {
+  color: #9A12B3;
+  font-size: 1.5em;
+}
+
+ul {
+  border: 3px solid #F22613;
+  border-radius: 3em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
